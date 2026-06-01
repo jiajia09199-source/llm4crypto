@@ -14,7 +14,7 @@ LLM4Crypto 是一个端到端的加密货币市场情绪分析系统。系统整
 
 ## 系统架构
 
-![系统架构](visualization/system_architecture.png)
+![系统架构](img.png)
 
 系统流水线分为四个阶段：
 
