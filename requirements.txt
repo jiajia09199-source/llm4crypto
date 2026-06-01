@@ -3,6 +3,8 @@
 twscrape>=0.18.1          # Twitter 数据采集（GraphQL 逆向）
 telethon>=1.34            # Telegram 数据采集
 requests>=2.31            # HTTP 请求
+feedparser>=6.0           # RSS 新闻采集（Cointelegraph、CoinDesk）
+
 
 # 网络代理
 python-socks[asyncio]>=2.4  # Telegram SOCKS5 代理支持
