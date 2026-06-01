@@ -1,0 +1,6112 @@
+[
+  {
+    "source": "coindar",
+    "content": "[BEAM] BANS Update",
+    "timestamp": "2026-5-30 12:00",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/beam-beam-bans-update-145317",
+    "mentioned_tokens": [
+      "BEAM"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "2465",
+      "coin_name": "BEAM",
+      "tags": [
+        "Update"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Momentum] AMA on X",
+    "timestamp": "2026-5-30 13:00",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/momentum-mmt-ama-on-x-146055",
+    "mentioned_tokens": [
+      "MMT"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "46712",
+      "coin_name": "Momentum",
+      "tags": [
+        "AMA"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[THORChain] Community Call",
+    "timestamp": "2026-5-30 14:00",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/thorchain-rune-community-call-147871",
+    "mentioned_tokens": [
+      "RUNE"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "2934",
+      "coin_name": "THORChain",
+      "tags": [
+        "DAO"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[dYdX] Fee Holiday Extension Vote",
+    "timestamp": "2026-5-30 05:00",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/dydx-dydx-fee-holiday-extension-vote-147909",
+    "mentioned_tokens": [
+      "DYDX"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "29833",
+      "coin_name": "dYdX",
+      "tags": [
+        "DAO"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Bitcoin Cash] LAYLA Upgrade",
+    "timestamp": "2026-5",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/bitcoin-cash-bch-layla-upgrade-138774",
+    "mentioned_tokens": [
+      "BCH"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "4",
+      "coin_name": "Bitcoin Cash",
+      "tags": [
+        "Update"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Livepeer] Improved Gateway",
+    "timestamp": "2026-5-31",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/livepeer-lpt-improved-gateway-138978",
+    "mentioned_tokens": [
+      "LPT"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "2433",
+      "coin_name": "Livepeer",
+      "tags": [
+        "Update"
+      ],
+      "important": "false",
+      "source_reliable": "false"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Avant USD] Token Generation Event",
+    "timestamp": "2026-5",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/avant-usd-avusd-token-generation-event-139105",
+    "mentioned_tokens": [
+      "AVUSD"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "40187",
+      "coin_name": "Avant USD",
+      "tags": [
+        "General"
+      ],
+      "important": "false",
+      "source_reliable": "false"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[SoSoValue] Airdrop",
+    "timestamp": "2026-5",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/sosovalue-soso-airdrop-139601",
+    "mentioned_tokens": [
+      "SOSO"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "40768",
+      "coin_name": "SoSoValue",
+      "tags": [
+        "Earning"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[The Innovation Game] Prometheus Closed Beta",
+    "timestamp": "2026-5",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/the-innovation-game-tig-prometheus-closed-beta-145769",
+    "mentioned_tokens": [
+      "TIG"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "37514",
+      "coin_name": "The Innovation Game",
+      "tags": [
+        "Testing"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Sταking] Shariah Index Release",
+    "timestamp": "2026-5",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/sking-sn88-shariah-index-release-146059",
+    "mentioned_tokens": [
+      "SN88"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "43169",
+      "coin_name": "Sταking",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Dual] Mainnet Launch",
+    "timestamp": "2026-5",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/dual-dual-mainnet-launch-146086",
+    "mentioned_tokens": [
+      "DUAL"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "49274",
+      "coin_name": "Dual",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Pangolin] PangoScanner Release",
+    "timestamp": "2026-5",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/pangolin-png-pangoscanner-release-146112",
+    "mentioned_tokens": [
+      "PNG"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "10871",
+      "coin_name": "Pangolin",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[SuperRare] Partnership With Gavin Meeler",
+    "timestamp": "2026-5",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/superrare-rare-partnership-with-gavin-meeler-146120",
+    "mentioned_tokens": [
+      "RARE"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "14613",
+      "coin_name": "SuperRare",
+      "tags": [
+        "Partnership"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[ChainGPT] NFT Card Game Update",
+    "timestamp": "2026-5",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/chaingpt-cgpt-nft-card-game-update-146177",
+    "mentioned_tokens": [
+      "CGPT"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "26226",
+      "coin_name": "ChainGPT",
+      "tags": [
+        "Update"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[XerisCoin] Mainnet Launch",
+    "timestamp": "2026-5",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/xeriscoin-xeris-mainnet-launch-146203",
+    "mentioned_tokens": [
+      "XERIS"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "47626",
+      "coin_name": "XerisCoin",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Strike Robot] Epoch 1 Rewards Distribution",
+    "timestamp": "2026-5",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/strike-robot-sr-epoch-1-rewards-distribution-146224",
+    "mentioned_tokens": [
+      "SR"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "49638",
+      "coin_name": "Strike Robot",
+      "tags": [
+        "Earning"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Flash.Trade] V2 Phase 1 Alpha Testing",
+    "timestamp": "2026-5",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/flashtrade-faf-v2-phase-1-alpha-testing-146236",
+    "mentioned_tokens": [
+      "FAF"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "42061",
+      "coin_name": "Flash.Trade",
+      "tags": [
+        "Testing"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Pawtato] Token Burn",
+    "timestamp": "2026-5",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/pawtato-tato-token-burn-146275",
+    "mentioned_tokens": [
+      "TATO"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "47435",
+      "coin_name": "Pawtato",
+      "tags": [
+        "Burning"
+      ],
+      "important": "true",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[JUST] GasFree Fee Adjustment",
+    "timestamp": "2026-5",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/just-jst-gasfree-fee-adjustment-146290",
+    "mentioned_tokens": [
+      "JST"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "7847",
+      "coin_name": "JUST",
+      "tags": [
+        "Update"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Astra Nova] Second Shiba Inu Comic on Nova Toons Release",
+    "timestamp": "2026-5",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/astra-nova-rvv-second-shiba-inu-comic-on-nova-toons-release-146318",
+    "mentioned_tokens": [
+      "RVV"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "25496",
+      "coin_name": "Astra Nova",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Vulcan Forged] VulcanX Release",
+    "timestamp": "2026-5",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/vulcan-forged-pyr-vulcanx-release-146378",
+    "mentioned_tokens": [
+      "PYR"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "11617",
+      "coin_name": "Vulcan Forged",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Forest Protocol] Airdrop",
+    "timestamp": "2026-5",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/forest-protocol-forest-airdrop-146394",
+    "mentioned_tokens": [
+      "FOREST"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "45567",
+      "coin_name": "Forest Protocol",
+      "tags": [
+        "Earning"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Strike Robot] SR Platform Release",
+    "timestamp": "2026-5",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/strike-robot-sr-sr-platform-release-146420",
+    "mentioned_tokens": [
+      "SR"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "49638",
+      "coin_name": "Strike Robot",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Ycash] Atomic Swap Testing",
+    "timestamp": "2026-5",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/ycash-yec-atomic-swap-testing-146423",
+    "mentioned_tokens": [
+      "YEC"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "7266",
+      "coin_name": "Ycash",
+      "tags": [
+        "Testing"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[0G] Exchange Direct Top-Up Update",
+    "timestamp": "2026-5",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/0g-0g-exchange-direct-topup-update-146424",
+    "mentioned_tokens": [
+      "0G"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "45891",
+      "coin_name": "0G",
+      "tags": [
+        "Update"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Pendle] SrRoyAPYUSD Update",
+    "timestamp": "2026-5",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/pendle-pendle-srroyapyusd-update-146436",
+    "mentioned_tokens": [
+      "PENDLE"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "11908",
+      "coin_name": "Pendle",
+      "tags": [
+        "Update"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[SuperRare] The Adventures of PaintoMime Release",
+    "timestamp": "2026-5",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/superrare-rare-the-adventures-of-paintomime-release-146440",
+    "mentioned_tokens": [
+      "RARE"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "14613",
+      "coin_name": "SuperRare",
+      "tags": [
+        "NFT"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Qubic] Design Phase for Outsourced Computing",
+    "timestamp": "2026-5",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/qubic-qubic-design-phase-for-outsourced-computing-146457",
+    "mentioned_tokens": [
+      "QUBIC"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "29825",
+      "coin_name": "Qubic",
+      "tags": [
+        "General"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Chrema Coin] Token Swap Deadline",
+    "timestamp": "2026-5-31",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/chrema-coin-crmc-token-swap-deadline-146464",
+    "mentioned_tokens": [
+      "CRMC"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "43824",
+      "coin_name": "Chrema Coin",
+      "tags": [
+        "Swap"
+      ],
+      "important": "true",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Flare] FIP.16 Emissions Update",
+    "timestamp": "2026-5",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/flare-flr-fip16-emissions-update-146465",
+    "mentioned_tokens": [
+      "FLR"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "25543",
+      "coin_name": "Flare",
+      "tags": [
+        "Update"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[XDB CHAIN] Token Burn",
+    "timestamp": "2026-5",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/xdb-chain-xdb-token-burn-146526",
+    "mentioned_tokens": [
+      "XDB"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "3055",
+      "coin_name": "XDB CHAIN",
+      "tags": [
+        "Burning"
+      ],
+      "important": "true",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[NFPrompt] Participatory AI Trade Experience Release",
+    "timestamp": "2026-5",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/nfprompt-nfp-participatory-ai-trade-experience-release-146687",
+    "mentioned_tokens": [
+      "NFP"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "30908",
+      "coin_name": "NFPrompt",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Portal] First Major TaaS Stack Component Release",
+    "timestamp": "2026-5",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/portal-portal-first-major-taas-stack-component-release-146796",
+    "mentioned_tokens": [
+      "PORTAL"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "32299",
+      "coin_name": "Portal",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[DragonSwap] Saphyre AMM and Mobile Interface Release",
+    "timestamp": "2026-5",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/dragonswap-drg-saphyre-amm-and-mobile-interface-release-146859",
+    "mentioned_tokens": [
+      "DRG"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "44010",
+      "coin_name": "DragonSwap",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Status] v2.38 Release",
+    "timestamp": "2026-5",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/status-snt-v238-release-146874",
+    "mentioned_tokens": [
+      "SNT"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "58",
+      "coin_name": "Status",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "Bitcoin Support in NervaOne Release",
+    "timestamp": "2026-5",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/nerva-xnv-bitcoin-support-in-nervaone-release-146885",
+    "mentioned_tokens": [
+      "XNV"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "2374",
+      "coin_name": "Nerva",
+      "tags": [
+        "Update"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Sentinel] Plan Manager Dashboard Release",
+    "timestamp": "2026-5",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/sentinel-p2p-plan-manager-dashboard-release-146912",
+    "mentioned_tokens": [
+      "P2P"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "11722",
+      "coin_name": "Sentinel",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Cysic] CyOps Public Launch",
+    "timestamp": "2026-5",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/cysic-cys-cyops-public-launch-146931",
+    "mentioned_tokens": [
+      "CYS"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "47773",
+      "coin_name": "Cysic",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "SaucerSwap V3 Release",
+    "timestamp": "2026-5",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/saucerswap-sauce-saucerswap-v3-release-146988",
+    "mentioned_tokens": [
+      "SAUCE"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "24310",
+      "coin_name": "SaucerSwap",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Railgun] Ambire Integration",
+    "timestamp": "2026-5",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/railgun-rail-ambire-integration-147060",
+    "mentioned_tokens": [
+      "RAIL"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "13669",
+      "coin_name": "Railgun",
+      "tags": [
+        "Update"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[PulseChain Peacock] Token Burn",
+    "timestamp": "2026-5",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/pulsechain-peacock-pcock-token-burn-147063",
+    "mentioned_tokens": [
+      "PCOCK"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "44781",
+      "coin_name": "PulseChain Peacock",
+      "tags": [
+        "Burning"
+      ],
+      "important": "true",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Aerodrome Finance] Aero Release",
+    "timestamp": "2026-5",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/aerodrome-finance-aero-aero-release-147089",
+    "mentioned_tokens": [
+      "AERO"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "28617",
+      "coin_name": "Aerodrome Finance",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "Nerva Core Release",
+    "timestamp": "2026-5",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/nerva-xnv-nerva-core-release-147168",
+    "mentioned_tokens": [
+      "XNV"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "2374",
+      "coin_name": "Nerva",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[OVERTAKE] Uptop.gg Korea Release",
+    "timestamp": "2026-5",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/overtake-take-uptopgg-korea-release-147194",
+    "mentioned_tokens": [
+      "TAKE"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "45372",
+      "coin_name": "OVERTAKE",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Manifold Finance] Conviction Release",
+    "timestamp": "2026-5",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/manifold-finance-fold-conviction-release-147335",
+    "mentioned_tokens": [
+      "FOLD"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "12776",
+      "coin_name": "Manifold Finance",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[MVL] Musubi A/R Release",
+    "timestamp": "2026-5",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/mvl-mvl-musubi-ar-release-147367",
+    "mentioned_tokens": [
+      "MVL"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "2448",
+      "coin_name": "MVL",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[BabyBonk] Token Burn",
+    "timestamp": "2026-5-31",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/babybonk-babybonk-token-burn-147375",
+    "mentioned_tokens": [
+      "BABYBONK"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "45931",
+      "coin_name": "BabyBonk",
+      "tags": [
+        "Burning"
+      ],
+      "important": "true",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[BigWater] Public Explorer Beta",
+    "timestamp": "2026-5",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/bigwater-bigw-public-explorer-beta-147395",
+    "mentioned_tokens": [
+      "BIGW"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "44653",
+      "coin_name": "BigWater",
+      "tags": [
+        "Testing"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Hermetica USDh] StUSDh Release",
+    "timestamp": "2026-5",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/hermetica-usdh-usdh-stusdh-release-147401",
+    "mentioned_tokens": [
+      "USDH"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "41171",
+      "coin_name": "Hermetica USDh",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "Rails 2.0 Options Release",
+    "timestamp": "2026-5",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/rails-rails-rails-20-options-release-147447",
+    "mentioned_tokens": [
+      "RAILS"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "48605",
+      "coin_name": "Rails",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Beldex] Freename Integration",
+    "timestamp": "2026-5",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/beldex-bdx-freename-integration-147456",
+    "mentioned_tokens": [
+      "BDX"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "2844",
+      "coin_name": "Beldex",
+      "tags": [
+        "Update"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[MUTE SWAP by Virtuals] Private Yield Launch",
+    "timestamp": "2026-5",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/mute-swap-by-virtuals-mute-private-yield-launch-147545",
+    "mentioned_tokens": [
+      "MUTE"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "45237",
+      "coin_name": "MUTE SWAP by Virtuals",
+      "tags": [
+        "Earning"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Indigo Protocol iUSD] Indigo V3 Release",
+    "timestamp": "2026-5",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/indigo-protocol-iusd-iusd-indigo-v3-release-147548",
+    "mentioned_tokens": [
+      "IUSD"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "25412",
+      "coin_name": "Indigo Protocol iUSD",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "Injective x Microsoft Nova Program",
+    "timestamp": "2026-5",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/injective-inj-injective-x-microsoft-nova-program-147580",
+    "mentioned_tokens": [
+      "INJ"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "9726",
+      "coin_name": "Injective",
+      "tags": [
+        "Marketing"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Metal DAO] Metal Pay Passkeys Update",
+    "timestamp": "2026-5",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/metal-dao-mtl-metal-pay-passkeys-update-147625",
+    "mentioned_tokens": [
+      "MTL"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "40",
+      "coin_name": "Metal DAO",
+      "tags": [
+        "Update"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Kindred Labs] Product Launch",
+    "timestamp": "2026-5",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/kindred-labs-kin-product-launch-147696",
+    "mentioned_tokens": [
+      "KIN"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "48596",
+      "coin_name": "Kindred Labs",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Canton] Logical Synchronizer DevNet Test",
+    "timestamp": "2026-5",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/canton-cc-logical-synchronizer-devnet-test-147707",
+    "mentioned_tokens": [
+      "CC"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "47297",
+      "coin_name": "Canton",
+      "tags": [
+        "Testing"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Ethy AI] Ethy Referral Program",
+    "timestamp": "2026-5",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/ethy-ai-ethy-ethy-referral-program-147813",
+    "mentioned_tokens": [
+      "ETHY"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "42808",
+      "coin_name": "Ethy AI",
+      "tags": [
+        "Marketing"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Destra Network] VentureOS",
+    "timestamp": "2026-5",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/destra-network-dsync-ventureos-147870",
+    "mentioned_tokens": [
+      "DSYNC"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "32853",
+      "coin_name": "Destra Network",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[717ai by Virtuals] WIRE CLARITY Update",
+    "timestamp": "2026-5-31",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/717ai-by-virtuals-wire-wire-clarity-update-147873",
+    "mentioned_tokens": [
+      "WIRE"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "40240",
+      "coin_name": "717ai by Virtuals",
+      "tags": [
+        "Update"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[PandaSui Coin] PandaBox Release",
+    "timestamp": "2026-5",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/pandasui-coin-pans-pandabox-release-147875",
+    "mentioned_tokens": [
+      "PANS"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "44344",
+      "coin_name": "PandaSui Coin",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "LAMBO Poker Night",
+    "timestamp": "2026-5-31 17:00",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/lambo-lambo-lambo-poker-night-147880",
+    "mentioned_tokens": [
+      "$LAMBO"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "39366",
+      "coin_name": "LAMBO",
+      "tags": [
+        "Contest"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Blocktronics] First Version Release",
+    "timestamp": "2026-5",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/blocktronics-blocktronics-first-version-release-147882",
+    "mentioned_tokens": [
+      "BLOCKTRONICS"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "50098",
+      "coin_name": "Blocktronics",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[United Stables] U x Trust Wallet Campaign End",
+    "timestamp": "2026-5-31",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/united-stables-u-u-x-trust-wallet-campaign-end-147910",
+    "mentioned_tokens": [
+      "U"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "47904",
+      "coin_name": "United Stables",
+      "tags": [
+        "Marketing"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Tezos] Proof of Palm 2026 NFT Event",
+    "timestamp": "2026-5-31",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/tezos-xtz-proof-of-palm-2026-nft-event-147966",
+    "mentioned_tokens": [
+      "XTZ"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "738",
+      "coin_name": "Tezos",
+      "tags": [
+        "NFT"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[ICON] Network Shutdown Governance Vote",
+    "timestamp": "2026-5",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/icon-icx-network-shutdown-governance-vote-148003",
+    "mentioned_tokens": [
+      "ICX"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "954",
+      "coin_name": "ICON",
+      "tags": [
+        "DAO"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Kraken PreStocks] Live Stream on YouTube",
+    "timestamp": "2026-5-31 23:00",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/kraken-prestocks-kraken-live-stream-on-youtube-148127",
+    "mentioned_tokens": [
+      "KRAKEN"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "44838",
+      "coin_name": "Kraken PreStocks",
+      "tags": [
+        "AMA"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[CROSS] Mainnet Launch",
+    "timestamp": "2026-6-01",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/cross-cross-mainnet-launch-145967",
+    "mentioned_tokens": [
+      "CROSS"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "43862",
+      "coin_name": "CROSS",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[BlockDAG] Token Burn",
+    "timestamp": "2026-6-01",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/blockdag-bdag-token-burn-147187",
+    "mentioned_tokens": [
+      "BDAG"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "49240",
+      "coin_name": "BlockDAG",
+      "tags": [
+        "Burning"
+      ],
+      "important": "true",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Crypto Market] Japan to Allow Foreign Trust-Type Stablecoins From June 1st",
+    "timestamp": "2026-6-01",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/crypto-market-japan-to-allow-foreign-trusttype-stablecoins-from-june-1st-147739",
+    "mentioned_tokens": [],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "0",
+      "coin_name": "Crypto Market",
+      "tags": [
+        "Regulation"
+      ],
+      "important": "true",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Saturn Dollar] sUSDsat Unstaking Mechanism Update",
+    "timestamp": "2026-6-01",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/saturn-dollar-usdat-susdsat-unstaking-mechanism-update-147789",
+    "mentioned_tokens": [
+      "USDAT"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "49454",
+      "coin_name": "Saturn Dollar",
+      "tags": [
+        "Update"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[BlockDAG] Stable Coin Release",
+    "timestamp": "2026-6-01",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/blockdag-bdag-stable-coin-release-147886",
+    "mentioned_tokens": [
+      "BDAG"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "49240",
+      "coin_name": "BlockDAG",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[FLOKI] AMA on Telegram",
+    "timestamp": "2026-6-01 08:00",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/floki-floki-ama-on-telegram-147895",
+    "mentioned_tokens": [
+      "FLOKI"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "24860",
+      "coin_name": "FLOKI",
+      "tags": [
+        "AMA"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Aergo] Party Knights Cohort 1",
+    "timestamp": "2026-6-01",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/aergo-aergo-party-knights-cohort-1-148060",
+    "mentioned_tokens": [
+      "AERGO"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "2427",
+      "coin_name": "Aergo",
+      "tags": [
+        "Marketing"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "ROBA No-Code Release",
+    "timestamp": "2026-6-01",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/roba-roba-roba-nocode-release-148105",
+    "mentioned_tokens": [
+      "ROBA"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "46682",
+      "coin_name": "ROBA",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Request] New Crypto Payment Approach",
+    "timestamp": "2026-6-01",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/request-req-new-crypto-payment-approach-148146",
+    "mentioned_tokens": [
+      "REQ"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "2581",
+      "coin_name": "Request",
+      "tags": [
+        "General"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "THATBACK Release",
+    "timestamp": "2026-6-01",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/that-that-thatback-release-148152",
+    "mentioned_tokens": [
+      "THAT"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "37747",
+      "coin_name": "THAT",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Pentagon Chain] Hero Squad Showdown Closed Beta",
+    "timestamp": "2026-6-01",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/pentagon-chain-pc-hero-squad-showdown-closed-beta-148156",
+    "mentioned_tokens": [
+      "PC"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "43446",
+      "coin_name": "Pentagon Chain",
+      "tags": [
+        "Testing"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[OWB] New Patch Update",
+    "timestamp": "2026-6-01",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/owb-owb-new-patch-update-148166",
+    "mentioned_tokens": [
+      "OWB"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "47703",
+      "coin_name": "OWB",
+      "tags": [
+        "Update"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[BitMEX] Proof of Talk in Paris, France",
+    "timestamp": "2026-6-02",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/bitmex-bmex-proof-of-talk-in-paris-france-146264",
+    "mentioned_tokens": [
+      "BMEX"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "18768",
+      "coin_name": "BitMEX",
+      "tags": [
+        "Conference"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Zircuit] Proof of Talk in Paris, France",
+    "timestamp": "2026-6-02",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/zircuit-zrc-proof-of-talk-in-paris-france-146316",
+    "mentioned_tokens": [
+      "ZRC"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "32820",
+      "coin_name": "Zircuit",
+      "tags": [
+        "Conference"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Nosana] Centralized Vs. Decentralized Compute Session",
+    "timestamp": "2026-6-02 16:00",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/nosana-nos-centralized-vs-decentralized-compute-session-147720",
+    "mentioned_tokens": [
+      "NOS"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "19482",
+      "coin_name": "Nosana",
+      "tags": [
+        "AMA"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Akash Network] AI Compute Discussion",
+    "timestamp": "2026-6-02",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/akash-network-akt-ai-compute-discussion-147933",
+    "mentioned_tokens": [
+      "AKT"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "9734",
+      "coin_name": "Akash Network",
+      "tags": [
+        "AMA"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Manifesting] Giveaway",
+    "timestamp": "2026-6-02 01:00",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/manifesting-manifest-giveaway-147959",
+    "mentioned_tokens": [
+      "MANIFEST"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "50133",
+      "coin_name": "Manifesting",
+      "tags": [
+        "Earning"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Startale USD] 18th ETF Conference in Tokyo, Japan",
+    "timestamp": "2026-6-02 08:55",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/startale-usd-usdsc-18th-etf-conference-in-tokyo-japan-148059",
+    "mentioned_tokens": [
+      "USDSC"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "47629",
+      "coin_name": "Startale USD",
+      "tags": [
+        "Conference"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Hex Trust USD] Istanbul Blockchain Week in Istanbul, Turkey",
+    "timestamp": "2026-6-02",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/hex-trust-usd-usdx-istanbul-blockchain-week-in-istanbul-turkey-148062",
+    "mentioned_tokens": [
+      "USDX"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "35849",
+      "coin_name": "Hex Trust USD",
+      "tags": [
+        "Conference"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Espresso] Money20/20 in Amsterdam, Netherlands",
+    "timestamp": "2026-6-02",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/espresso-esp-money2020-in-amsterdam-netherlands-148083",
+    "mentioned_tokens": [
+      "ESP"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "44428",
+      "coin_name": "Espresso",
+      "tags": [
+        "Conference"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Sei] NY Tech Week in New York, USA",
+    "timestamp": "2026-6-02",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/sei-sei-ny-tech-week-in-new-york-usa-148092",
+    "mentioned_tokens": [
+      "SEI"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "26927",
+      "coin_name": "Sei",
+      "tags": [
+        "Conference"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[USDKG] Istanbul Blockchain Week in Istanbul, Turkey",
+    "timestamp": "2026-6-02",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/usdkg-usdkg-istanbul-blockchain-week-in-istanbul-turkey-148122",
+    "mentioned_tokens": [
+      "USDKG"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "47864",
+      "coin_name": "USDKG",
+      "tags": [
+        "Conference"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Aave] SXSW London in London, United Kingdom",
+    "timestamp": "2026-6-02",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/aave-aave-sxsw-london-in-london-united-kingdom-148126",
+    "mentioned_tokens": [
+      "AAVE"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "9531",
+      "coin_name": "Aave",
+      "tags": [
+        "Conference"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Optimism] Money20/20 in Amsterdam, Netherlands",
+    "timestamp": "2026-6-02",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/optimism-op-money2020-in-amsterdam-netherlands-148163",
+    "mentioned_tokens": [
+      "OP"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "22166",
+      "coin_name": "Optimism",
+      "tags": [
+        "Conference"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Pangolin] Istanbul Blockchain Week in Istanbul, Turkey",
+    "timestamp": "2026-6-02",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/pangolin-png-istanbul-blockchain-week-in-istanbul-turkey-148164",
+    "mentioned_tokens": [
+      "PNG"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "10871",
+      "coin_name": "Pangolin",
+      "tags": [
+        "Conference"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Cosmos Hub] Proof of Talk in Paris, France",
+    "timestamp": "2026-6-02",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/cosmos-hub-atom-proof-of-talk-in-paris-france-148183",
+    "mentioned_tokens": [
+      "ATOM"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "2609",
+      "coin_name": "Cosmos Hub",
+      "tags": [
+        "Conference"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Veilnet] Live Stream",
+    "timestamp": "2026-6-02 19:00",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/veilnet-veilnet-live-stream-148184",
+    "mentioned_tokens": [
+      "VEILNET"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "50168",
+      "coin_name": "Veilnet",
+      "tags": [
+        "AMA"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[AVA (Travala)] Istanbul Blockchain Week 2026 in Istanbul, Turkey",
+    "timestamp": "2026-6-02",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/ava-travala-ava-istanbul-blockchain-week-2026-in-istanbul-turkey-143138",
+    "mentioned_tokens": [
+      "AVA"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "1643",
+      "coin_name": "AVA (Travala)",
+      "tags": [
+        "Conference"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Ethix] South Summit 2026 Startup Competition in Madrid, Spain",
+    "timestamp": "2026-6-03",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/ethix-ethix-south-summit-2026-startup-competition-in-madrid-spain-146997",
+    "mentioned_tokens": [
+      "ETHIX"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "10794",
+      "coin_name": "Ethix",
+      "tags": [
+        "Conference"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Cronos] BTC App Campaign",
+    "timestamp": "2026-6-03",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/cronos-cro-btc-app-campaign-147044",
+    "mentioned_tokens": [
+      "CRO"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "3049",
+      "coin_name": "Cronos",
+      "tags": [
+        "Marketing"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[NAVI Protocol] NAVI x Matrixdock Silver Carnival Ends",
+    "timestamp": "2026-6-03",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/navi-protocol-navx-navi-x-matrixdock-silver-carnival-ends-147746",
+    "mentioned_tokens": [
+      "NAVX"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "29528",
+      "coin_name": "NAVI Protocol",
+      "tags": [
+        "Earning"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Backstage] Giveaway",
+    "timestamp": "2026-6-03",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/backstage-bks-giveaway-148117",
+    "mentioned_tokens": [
+      "BKS"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "47276",
+      "coin_name": "Backstage",
+      "tags": [
+        "Earning"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[NEXST] Giveaway",
+    "timestamp": "2026-6-03",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/nexst-nxt-giveaway-148180",
+    "mentioned_tokens": [
+      "NXT"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "50033",
+      "coin_name": "NEXST",
+      "tags": [
+        "Earning"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Blackhole] Airdrop",
+    "timestamp": "2026-6-04 12:00",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/blackhole-black-airdrop-147352",
+    "mentioned_tokens": [
+      "BLACK"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "44195",
+      "coin_name": "Blackhole",
+      "tags": [
+        "Earning"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[AUSD] Stable Summit IV in NYC, USA",
+    "timestamp": "2026-6-04",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/ausd-ausd-stable-summit-iv-in-nyc-usa-147453",
+    "mentioned_tokens": [
+      "AUSD"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "36139",
+      "coin_name": "AUSD",
+      "tags": [
+        "Conference"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Stellar] NY Tech Week in New York, USA",
+    "timestamp": "2026-6-04",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/stellar-xlm-ny-tech-week-in-new-york-usa-147576",
+    "mentioned_tokens": [
+      "XLM"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "32",
+      "coin_name": "Stellar",
+      "tags": [
+        "Conference"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[CROSS] Frost Kingdom CBT",
+    "timestamp": "2026-6-04 02:00",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/cross-cross-frost-kingdom-cbt-147976",
+    "mentioned_tokens": [
+      "CROSS"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "43862",
+      "coin_name": "CROSS",
+      "tags": [
+        "Testing"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[WalletConnect Token] Money20/20 in Amsterdam, Netherlands",
+    "timestamp": "2026-6-02",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/walletconnect-token-wct-money2020-in-amsterdam-netherlands-148129",
+    "mentioned_tokens": [
+      "WCT"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "37237",
+      "coin_name": "WalletConnect Token",
+      "tags": [
+        "Conference"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Augur] Hard Fork",
+    "timestamp": "2026-6-04",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/augur-rep-hard-fork-148165",
+    "mentioned_tokens": [
+      "REP"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "33",
+      "coin_name": "Augur",
+      "tags": [
+        "Hard Fork"
+      ],
+      "important": "true",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Layer3] Giveaway",
+    "timestamp": "2026-6-04 13:00",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/layer3-l3-giveaway-148169",
+    "mentioned_tokens": [
+      "L3"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "34624",
+      "coin_name": "Layer3",
+      "tags": [
+        "Earning"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Ocean Protocol] Ocean Network Zealy Season 2",
+    "timestamp": "2026-6-05",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/ocean-protocol-ocean-ocean-network-zealy-season-2-146403",
+    "mentioned_tokens": [
+      "OCEAN"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "2743",
+      "coin_name": "Ocean Protocol",
+      "tags": [
+        "Contest"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[KAIO] Airdrop",
+    "timestamp": "2026-6-05 16:00",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/kaio-kaio-airdrop-146630",
+    "mentioned_tokens": [
+      "KAIO"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "49706",
+      "coin_name": "KAIO",
+      "tags": [
+        "Earning"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[SafePal] Bitcoin Pizza Day Card Skin Campaign",
+    "timestamp": "2026-6-05",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/safepal-sfp-bitcoin-pizza-day-card-skin-campaign-147661",
+    "mentioned_tokens": [
+      "SFP"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "10745",
+      "coin_name": "SafePal",
+      "tags": [
+        "Marketing"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Morpho] Vault Summit in New York, USA",
+    "timestamp": "2026-6-05",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/morpho-morpho-vault-summit-in-new-york-usa-147724",
+    "mentioned_tokens": [
+      "MORPHO"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "26758",
+      "coin_name": "Morpho",
+      "tags": [
+        "Conference"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Streamflow] New York Meetup, USA",
+    "timestamp": "2026-6-05 20:00",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/streamflow-stream-new-york-meetup-usa-147985",
+    "mentioned_tokens": [
+      "STREAM"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "38276",
+      "coin_name": "Streamflow",
+      "tags": [
+        "Meetup"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[MWX Token] MWX AlphaFeedback Campaign",
+    "timestamp": "2026-6-05",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/mwx-token-mwxt-mwx-alphafeedback-campaign-148103",
+    "mentioned_tokens": [
+      "MWXT"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "47092",
+      "coin_name": "MWX Token",
+      "tags": [
+        "Contest"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[MimboGameGroup] SPINCRUSH Release",
+    "timestamp": "2026-6-05",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/mimbogamegroup-mgg-spincrush-release-148135",
+    "mentioned_tokens": [
+      "MGG"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "43202",
+      "coin_name": "MimboGameGroup",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Cosanta] Network Upgrade Activation",
+    "timestamp": "2026-6-06 13:31",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/cosanta-cosa-network-upgrade-activation-147397",
+    "mentioned_tokens": [
+      "COSA"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "26230",
+      "coin_name": "Cosanta",
+      "tags": [
+        "Hard Fork"
+      ],
+      "important": "true",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[PancakeSwap] Bandung Meetup, Indonesia",
+    "timestamp": "2026-6-06",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/pancakeswap-cake-bandung-meetup-indonesia-148055",
+    "mentioned_tokens": [
+      "CAKE"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "9465",
+      "coin_name": "PancakeSwap",
+      "tags": [
+        "Meetup"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[IoTeX] Hard Fork",
+    "timestamp": "2026-6-07 23:52",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/iotex-iotx-hard-fork-146947",
+    "mentioned_tokens": [
+      "IOTX"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "1633",
+      "coin_name": "IoTeX",
+      "tags": [
+        "Hard Fork"
+      ],
+      "important": "true",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Macropod] NZCryptoCon in Auckland, New Zealand",
+    "timestamp": "2026-6-07 11:59",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/macropod-audm-nzcryptocon-in-auckland-new-zealand-147226",
+    "mentioned_tokens": [
+      "AUDM"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "47690",
+      "coin_name": "Macropod",
+      "tags": [
+        "Conference"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[717ai by Virtuals] WIRE Platform Release",
+    "timestamp": "2026-6-07",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/717ai-by-virtuals-wire-wire-platform-release-147874",
+    "mentioned_tokens": [
+      "WIRE"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "40240",
+      "coin_name": "717ai by Virtuals",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Boson] Mainnet Launch",
+    "timestamp": "2026-6-08",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/boson-boson-mainnet-launch-147719",
+    "mentioned_tokens": [
+      "BOSON"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "11556",
+      "coin_name": "Boson",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Altura Vault Tokens] Merkl Rewards End",
+    "timestamp": "2026-6-08",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/altura-vault-tokens-avlt-merkl-rewards-end-147731",
+    "mentioned_tokens": [
+      "AVLT"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "49444",
+      "coin_name": "Altura Vault Tokens",
+      "tags": [
+        "Earning"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Huma Finance] Airdrop",
+    "timestamp": "2026-6-08",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/huma-finance-huma-airdrop-147995",
+    "mentioned_tokens": [
+      "HUMA"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "26134",
+      "coin_name": "Huma Finance",
+      "tags": [
+        "Earning"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[MetaMask USD] Builder Nights in New York, USA",
+    "timestamp": "2026-6-08 22:00",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/metamask-usd-musd-builder-nights-in-new-york-usa-148084",
+    "mentioned_tokens": [
+      "MUSD"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "45247",
+      "coin_name": "MetaMask USD",
+      "tags": [
+        "Meetup"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Book of Ethereum] New York Meetup, USA",
+    "timestamp": "2026-6-08 21:30",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/book-of-ethereum-booe-new-york-meetup-usa-148098",
+    "mentioned_tokens": [
+      "BOOE"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "34242",
+      "coin_name": "Book of Ethereum",
+      "tags": [
+        "Meetup"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "CROSS Rewards 2.0 Update",
+    "timestamp": "2026-6-09",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/cross-cross-cross-rewards-20-update-146485",
+    "mentioned_tokens": [
+      "CROSS"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "43862",
+      "coin_name": "CROSS",
+      "tags": [
+        "Update"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "Cardano Accelerator Demo Day",
+    "timestamp": "2026-6-09",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/cardano-ada-cardano-accelerator-demo-day-146643",
+    "mentioned_tokens": [
+      "ADA"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "15",
+      "coin_name": "Cardano",
+      "tags": [
+        "Marketing"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[ORIGYN] WAIB Summit in Monaco",
+    "timestamp": "2026-6-09",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/origyn-ogy-waib-summit-in-monaco-147979",
+    "mentioned_tokens": [
+      "OGY"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "22961",
+      "coin_name": "ORIGYN",
+      "tags": [
+        "Conference"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Solrouter] Berlin Meetup, Germany",
+    "timestamp": "2026-6-09",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/solrouter-router-berlin-meetup-germany-148133",
+    "mentioned_tokens": [
+      "ROUTER"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "50025",
+      "coin_name": "Solrouter",
+      "tags": [
+        "Meetup"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[HOME] Tokens Unlock",
+    "timestamp": "2026-6-10",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/home-home-tokens-unlock-136778",
+    "mentioned_tokens": [
+      "HOME"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "41715",
+      "coin_name": "HOME",
+      "tags": [
+        "Lock & Unlock"
+      ],
+      "important": "true",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Enzyme] Live Webinar",
+    "timestamp": "2026-6-10 15:00",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/enzyme-mln-live-webinar-148108",
+    "mentioned_tokens": [
+      "MLN"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "95",
+      "coin_name": "Enzyme",
+      "tags": [
+        "AMA"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Rootstock Bridged USDT (Rootstock)] Prague Meetup, Czech Republic",
+    "timestamp": "2026-6-11",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/rootstock-bridged-usdt-rootstock-usdt-prague-meetup-czech-republic-147900",
+    "mentioned_tokens": [
+      "USDT"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "45201",
+      "coin_name": "Rootstock Bridged USDT (Rootstock)",
+      "tags": [
+        "Meetup"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "TRON Academy Happy Hour in New York, USA",
+    "timestamp": "2026-6-11",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/tron-trx-tron-academy-happy-hour-in-new-york-usa-148090",
+    "mentioned_tokens": [
+      "TRX"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "56",
+      "coin_name": "TRON",
+      "tags": [
+        "Meetup"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Gnosis] Community Call",
+    "timestamp": "2026-6-11",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/gnosis-gno-community-call-148093",
+    "mentioned_tokens": [
+      "GNO"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "49",
+      "coin_name": "Gnosis",
+      "tags": [
+        "DAO"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Elastos] ECO Chain Shutdown",
+    "timestamp": "2026-6-13",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/elastos-ela-eco-chain-shutdown-145919",
+    "mentioned_tokens": [
+      "ELA"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "1314",
+      "coin_name": "Elastos",
+      "tags": [
+        "General"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[AVA (Travala)] BTC Prague, Czech Republic",
+    "timestamp": "2026-6-11",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/ava-travala-ava-btc-prague-czech-republic-146077",
+    "mentioned_tokens": [
+      "AVA"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "1643",
+      "coin_name": "AVA (Travala)",
+      "tags": [
+        "Conference"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Cicada Finance] Innovation Forum in Hong Kong",
+    "timestamp": "2026-6-13",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/cicada-finance-ltcic-innovation-forum-in-hong-kong-147878",
+    "mentioned_tokens": [
+      "LTCIC"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "44497",
+      "coin_name": "Cicada Finance",
+      "tags": [
+        "Conference"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Chainflip] Berlin Meetup, Germany",
+    "timestamp": "2026-6-15 16:00",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/chainflip-flip-berlin-meetup-germany-146695",
+    "mentioned_tokens": [
+      "FLIP"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "22512",
+      "coin_name": "Chainflip",
+      "tags": [
+        "Meetup"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Celo] Hackathon",
+    "timestamp": "2026-6-15",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/celo-celo-hackathon-147416",
+    "mentioned_tokens": [
+      "CELO"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "10857",
+      "coin_name": "Celo",
+      "tags": [
+        "Contest"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "Solana Summer School",
+    "timestamp": "2026-6-15",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/solana-sol-solana-summer-school-147858",
+    "mentioned_tokens": [
+      "SOL"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "7670",
+      "coin_name": "Solana",
+      "tags": [
+        "General"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Voxies] Voxie Survivor at Steam Next Fest",
+    "timestamp": "2026-6-15",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/voxies-voxel-voxie-survivor-at-steam-next-fest-148174",
+    "mentioned_tokens": [
+      "VOXEL"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "18180",
+      "coin_name": "Voxies",
+      "tags": [
+        "General"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Cronos] Level Up Sprint",
+    "timestamp": "2026-3-31",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/cronos-cro-level-up-sprint-143542",
+    "mentioned_tokens": [
+      "CRO"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "3049",
+      "coin_name": "Cronos",
+      "tags": [
+        "Contest"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[WhiteBIT Coin] Crypto Lending Rate Update",
+    "timestamp": "2026-6-17",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/whitebit-coin-wbt-crypto-lending-rate-update-147960",
+    "mentioned_tokens": [
+      "WBT"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "23942",
+      "coin_name": "WhiteBIT Coin",
+      "tags": [
+        "Update"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Pendle] Ethena Pools Return on Plasma",
+    "timestamp": "2026-6-18",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/pendle-pendle-ethena-pools-return-on-plasma-141980",
+    "mentioned_tokens": [
+      "PENDLE"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "11908",
+      "coin_name": "Pendle",
+      "tags": [
+        "General"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Ronin] Berlin Meetup, Germany",
+    "timestamp": "2026-6-18",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/ronin-ron-berlin-meetup-germany-146519",
+    "mentioned_tokens": [
+      "RON"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "16910",
+      "coin_name": "Ronin",
+      "tags": [
+        "Meetup"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Quack AI] Q402 Gas Campaign",
+    "timestamp": "2026-6-19",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/quack-ai-q-q402-gas-campaign-147736",
+    "mentioned_tokens": [
+      "Q"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "45588",
+      "coin_name": "Quack AI",
+      "tags": [
+        "Marketing"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Liberland LLD] Bansko Nomad Fest 2026 in Bansko, Bulgaria",
+    "timestamp": "2026-6-20",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/liberland-lld-lld-bansko-nomad-fest-2026-in-bansko-bulgaria-146471",
+    "mentioned_tokens": [
+      "LLD"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "30503",
+      "coin_name": "Liberland LLD",
+      "tags": [
+        "Conference"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Renzo] EzETH Bridge Routes Update",
+    "timestamp": "2026-6-20",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/renzo-rez-ezeth-bridge-routes-update-147530",
+    "mentioned_tokens": [
+      "REZ"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "34183",
+      "coin_name": "Renzo",
+      "tags": [
+        "Update"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "Litecoin Summit in Amsterdam, Netherlands",
+    "timestamp": "2026-6-22",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/litecoin-ltc-litecoin-summit-in-amsterdam-netherlands-145528",
+    "mentioned_tokens": [
+      "LTC"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "5",
+      "coin_name": "Litecoin",
+      "tags": [
+        "Conference"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Quant] UK Finance Digital Innovation Summit in London, United Kingdom",
+    "timestamp": "2026-6-25",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/quant-qnt-uk-finance-digital-innovation-summit-in-london-united-kingdom-148140",
+    "mentioned_tokens": [
+      "QNT"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "1956",
+      "coin_name": "Quant",
+      "tags": [
+        "Conference"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Sahara AI] Tokens Unlock",
+    "timestamp": "2026-6-26",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/sahara-ai-sahara-tokens-unlock-139440",
+    "mentioned_tokens": [
+      "SAHARA"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "43488",
+      "coin_name": "Sahara AI",
+      "tags": [
+        "Lock & Unlock"
+      ],
+      "important": "true",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[RocketX Exchange] Token Burn",
+    "timestamp": "2026-6-28",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/rocketx-exchange-rvf-token-burn-147446",
+    "mentioned_tokens": [
+      "RVF"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "22953",
+      "coin_name": "RocketX Exchange",
+      "tags": [
+        "Burning"
+      ],
+      "important": "true",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[EVAA Protocol] Token Swap",
+    "timestamp": "2026-6-29",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/evaa-protocol-evaa-token-swap-148037",
+    "mentioned_tokens": [
+      "EVAA"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "46393",
+      "coin_name": "EVAA Protocol",
+      "tags": [
+        "Swap"
+      ],
+      "important": "true",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Aerodrome Finance] Aero Launch",
+    "timestamp": "2026-Q2",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/aerodrome-finance-aero-aero-launch-139018",
+    "mentioned_tokens": [
+      "AERO"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "28617",
+      "coin_name": "Aerodrome Finance",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "false"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Aerodrome Finance] Launch on Ethereum",
+    "timestamp": "2026-Q2",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/aerodrome-finance-aero-launch-on-ethereum-139422",
+    "mentioned_tokens": [
+      "AERO"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "28617",
+      "coin_name": "Aerodrome Finance",
+      "tags": [
+        "Update"
+      ],
+      "important": "false",
+      "source_reliable": "false"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[MBG By Multibank Group] RWA Marketplace Launch",
+    "timestamp": "2026-Q2",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/mbg-by-multibank-group-mbg-rwa-marketplace-launch-139509",
+    "mentioned_tokens": [
+      "MBG"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "44268",
+      "coin_name": "MBG By Multibank Group",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "false"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Apro] OaaS Data Marketplace Launch",
+    "timestamp": "2026-Q2",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/apro-at-oaas-data-marketplace-launch-139897",
+    "mentioned_tokens": [
+      "AT"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "46978",
+      "coin_name": "Apro",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "false"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Apro] Multi-Chain Scaling",
+    "timestamp": "2026-Q2",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/apro-at-multichain-scaling-139898",
+    "mentioned_tokens": [
+      "AT"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "46978",
+      "coin_name": "Apro",
+      "tags": [
+        "Update"
+      ],
+      "important": "false",
+      "source_reliable": "false"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[MVL] TADA Expansion in New York",
+    "timestamp": "2026-6",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/mvl-mvl-tada-expansion-in-new-york-140163",
+    "mentioned_tokens": [
+      "MVL"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "2448",
+      "coin_name": "MVL",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "false"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Undeads Games] Cooperative Mode",
+    "timestamp": "2026-Q2",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/undeads-games-uds-cooperative-mode-140194",
+    "mentioned_tokens": [
+      "UDS"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "33169",
+      "coin_name": "Undeads Games",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "false"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Sei] Sumvin Beta",
+    "timestamp": "2026-Q2",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/sei-sei-sumvin-beta-141144",
+    "mentioned_tokens": [
+      "SEI"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "26927",
+      "coin_name": "Sei",
+      "tags": [
+        "Testing"
+      ],
+      "important": "false",
+      "source_reliable": "false"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Fractal Bitcoin] Standard Indexing Service Release",
+    "timestamp": "2026-Q2",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/fractal-bitcoin-fb-standard-indexing-service-release-141149",
+    "mentioned_tokens": [
+      "FB"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "36902",
+      "coin_name": "Fractal Bitcoin",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "false"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Atoshi] Mainnet Launch",
+    "timestamp": "2026-Q2",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/atoshi-atos-mainnet-launch-141199",
+    "mentioned_tokens": [
+      "ATOS"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "42202",
+      "coin_name": "Atoshi",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "false"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[The Graph] x402 Subgraph Gateway Release",
+    "timestamp": "2026-Q2",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/the-graph-grt-x402-subgraph-gateway-release-141309",
+    "mentioned_tokens": [
+      "GRT"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "10251",
+      "coin_name": "The Graph",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "false"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Aster] Staking Launch",
+    "timestamp": "2026-Q2",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/aster-aster-staking-launch-141325",
+    "mentioned_tokens": [
+      "ASTER"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "45849",
+      "coin_name": "Aster",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "false"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Aster] Governance",
+    "timestamp": "2026-Q2",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/aster-aster-governance-141336",
+    "mentioned_tokens": [
+      "ASTER"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "45849",
+      "coin_name": "Aster",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "false"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Aster] Smart Money Introduce",
+    "timestamp": "2026-Q2",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/aster-aster-smart-money-introduce-141337",
+    "mentioned_tokens": [
+      "ASTER"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "45849",
+      "coin_name": "Aster",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "false"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[PointPay] Smarter Analytics Roll Out",
+    "timestamp": "2026-Q2",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/pointpay-pxp-smarter-analytics-roll-out-141345",
+    "mentioned_tokens": [
+      "PXP"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "33945",
+      "coin_name": "PointPay",
+      "tags": [
+        "Update"
+      ],
+      "important": "false",
+      "source_reliable": "false"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "Aethir Engine Launch",
+    "timestamp": "2026-Q2",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/aethir-ath-aethir-engine-launch-141388",
+    "mentioned_tokens": [
+      "ATH"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "33038",
+      "coin_name": "Aethir",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "false"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[ApeX] Mainnet Launch",
+    "timestamp": "2026-Q2",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/apex-apex-mainnet-launch-141423",
+    "mentioned_tokens": [
+      "APEX"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "35182",
+      "coin_name": "ApeX",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "false"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[WalletConnect Token] Integration Incentive Deadline",
+    "timestamp": "2026-6-30",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/walletconnect-token-wct-integration-incentive-deadline-142482",
+    "mentioned_tokens": [
+      "WCT"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "37237",
+      "coin_name": "WalletConnect Token",
+      "tags": [
+        "Earning"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[ZenChain] zBTC on Mainnet Launch",
+    "timestamp": "2026-Q2",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/zenchain-ztc-zbtc-on-mainnet-launch-142619",
+    "mentioned_tokens": [
+      "ZTC"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "46905",
+      "coin_name": "ZenChain",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Espresso] Celo Integration",
+    "timestamp": "2026-Q2",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/espresso-esp-celo-integration-142988",
+    "mentioned_tokens": [
+      "ESP"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "44428",
+      "coin_name": "Espresso",
+      "tags": [
+        "Update"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[KiloEx] Prize Claim Deadline",
+    "timestamp": "2026-6-30 23:59",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/kiloex-kilo-prize-claim-deadline-143534",
+    "mentioned_tokens": [
+      "KILO"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "41835",
+      "coin_name": "KiloEx",
+      "tags": [
+        "Earning"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Liberland LLD] Constitution Referendum",
+    "timestamp": "2026-Q2",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/liberland-lld-lld-constitution-referendum-143723",
+    "mentioned_tokens": [
+      "LLD"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "30503",
+      "coin_name": "Liberland LLD",
+      "tags": [
+        "DAO"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Lido DAO] Campaign Extension",
+    "timestamp": "2026-6-30",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/lido-dao-ldo-campaign-extension-143977",
+    "mentioned_tokens": [
+      "LDO"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "10415",
+      "coin_name": "Lido DAO",
+      "tags": [
+        "Marketing"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Peapods Finance] Volatility Farming Strategies v.4",
+    "timestamp": "2026-Q2",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/peapods-finance-peas-volatility-farming-strategies-v4-144650",
+    "mentioned_tokens": [
+      "PEAS"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "30579",
+      "coin_name": "Peapods Finance",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Zano] Bridgeless Integration",
+    "timestamp": "2026-Q2",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/zano-zano-bridgeless-integration-145630",
+    "mentioned_tokens": [
+      "ZANO"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "3317",
+      "coin_name": "Zano",
+      "tags": [
+        "Update"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[EstateX] ESX Blockchain Mainnet Release",
+    "timestamp": "2026-Q2",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/estatex-esx-esx-blockchain-mainnet-release-146007",
+    "mentioned_tokens": [
+      "ESX"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "33798",
+      "coin_name": "EstateX",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Qubic] Transaction Capacity Update",
+    "timestamp": "2026-Q2",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/qubic-qubic-transaction-capacity-update-146379",
+    "mentioned_tokens": [
+      "QUBIC"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "29825",
+      "coin_name": "Qubic",
+      "tags": [
+        "Update"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Drift Protocol] Exchange Relaunch Release",
+    "timestamp": "2026-Q2",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/drift-protocol-drift-exchange-relaunch-release-146386",
+    "mentioned_tokens": [
+      "DRIFT"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "34367",
+      "coin_name": "Drift Protocol",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[The Vault Staked SOL] Stake Pool Application Review",
+    "timestamp": "2026-6",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/the-vault-staked-sol-vsol-stake-pool-application-review-146494",
+    "mentioned_tokens": [
+      "VSOL"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "34353",
+      "coin_name": "The Vault Staked SOL",
+      "tags": [
+        "General"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "Neutron Testnet Shutdown",
+    "timestamp": "2026-6-30",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/neutron-ntrn-neutron-testnet-shutdown-146771",
+    "mentioned_tokens": [
+      "NTRN"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "27703",
+      "coin_name": "Neutron",
+      "tags": [
+        "Testing"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Yellow] Airdrop",
+    "timestamp": "2026-6",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/yellow-yellow-airdrop-147254",
+    "mentioned_tokens": [
+      "YELLOW"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "48837",
+      "coin_name": "Yellow",
+      "tags": [
+        "Earning"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[LOFI] Hackathon",
+    "timestamp": "2026-6-30",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/lofi-lofi-hackathon-147626",
+    "mentioned_tokens": [
+      "LOFI"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "38910",
+      "coin_name": "LOFI",
+      "tags": [
+        "Contest"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Canton] Mainnet Launch",
+    "timestamp": "2026-6",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/canton-cc-mainnet-launch-147708",
+    "mentioned_tokens": [
+      "CC"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "47297",
+      "coin_name": "Canton",
+      "tags": [
+        "Release"
+      ],
+      "important": "true",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[NEAR Protocol] Network Upgrade 2.13",
+    "timestamp": "2026-6",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/near-protocol-near-network-upgrade-213-147710",
+    "mentioned_tokens": [
+      "NEAR"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "9470",
+      "coin_name": "NEAR Protocol",
+      "tags": [
+        "Hard Fork"
+      ],
+      "important": "true",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Cortensor] PyClaw Early Developer Version Release",
+    "timestamp": "2026-6",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/cortensor-cor-pyclaw-early-developer-version-release-147868",
+    "mentioned_tokens": [
+      "COR"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "37334",
+      "coin_name": "Cortensor",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Big Time] Pet Time Playtest 2",
+    "timestamp": "2026-6",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/big-time-bigtime-pet-time-playtest-2-147940",
+    "mentioned_tokens": [
+      "BIGTIME"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "29123",
+      "coin_name": "Big Time",
+      "tags": [
+        "Testing"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[StrikeBit AI] SuperStrike Release",
+    "timestamp": "2026-6",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/strikebit-ai-strike-superstrike-release-148011",
+    "mentioned_tokens": [
+      "STRIKE"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "46457",
+      "coin_name": "StrikeBit AI",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[BNB] Token Swap",
+    "timestamp": "2026-6-30",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/bnb-bnb-token-swap-148086",
+    "mentioned_tokens": [
+      "BNB"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "38",
+      "coin_name": "BNB",
+      "tags": [
+        "Swap"
+      ],
+      "important": "true",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Strike] Cardano Treasury Proposal",
+    "timestamp": "2026-6",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/strike-strike-cardano-treasury-proposal-148088",
+    "mentioned_tokens": [
+      "STRIKE"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "37409",
+      "coin_name": "Strike",
+      "tags": [
+        "DAO"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "ROBA Compute Release",
+    "timestamp": "2026-6",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/roba-roba-roba-compute-release-148106",
+    "mentioned_tokens": [
+      "ROBA"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "46682",
+      "coin_name": "ROBA",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[BlockDAG] Giveaway",
+    "timestamp": "2026-6",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/blockdag-bdag-giveaway-148115",
+    "mentioned_tokens": [
+      "BDAG"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "49240",
+      "coin_name": "BlockDAG",
+      "tags": [
+        "Earning"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Chrema Coin] Token Swap",
+    "timestamp": "2026-6-30",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/chrema-coin-crmc-token-swap-148151",
+    "mentioned_tokens": [
+      "CRMC"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "43824",
+      "coin_name": "Chrema Coin",
+      "tags": [
+        "Swap"
+      ],
+      "important": "true",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Constellation] Gate AI Release",
+    "timestamp": "2026-6",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/constellation-dag-gate-ai-release-148167",
+    "mentioned_tokens": [
+      "DAG"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "1679",
+      "coin_name": "Constellation",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Flare] Giveaway",
+    "timestamp": "2026-6",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/flare-flr-giveaway-148179",
+    "mentioned_tokens": [
+      "FLR"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "25543",
+      "coin_name": "Flare",
+      "tags": [
+        "Earning"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Txbit] Token Burn",
+    "timestamp": "2026-7-01",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/txbit-txbit-token-burn-57898",
+    "mentioned_tokens": [
+      "TXBIT"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "18039",
+      "coin_name": "Txbit",
+      "tags": [
+        "Burning"
+      ],
+      "important": "true",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Quickswap] Polygon ZkEVM Sunset",
+    "timestamp": "2026-7-01",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/quickswap-quick-polygon-zkevm-sunset-147567",
+    "mentioned_tokens": [
+      "QUICK"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "22318",
+      "coin_name": "Quickswap",
+      "tags": [
+        "General"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Injective] Freedom 250 Summit in Washington DC, USA",
+    "timestamp": "2026-7-04",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/injective-inj-freedom-250-summit-in-washington-dc-usa-148173",
+    "mentioned_tokens": [
+      "INJ"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "9726",
+      "coin_name": "Injective",
+      "tags": [
+        "Conference"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[MEZO] Announcement",
+    "timestamp": "2026-7-05",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/mezo-mezo-announcement-148177",
+    "mentioned_tokens": [
+      "MEZO"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "48458",
+      "coin_name": "MEZO",
+      "tags": [
+        "Announcement"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Grass] Community Call",
+    "timestamp": "2026-7-07",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/grass-grass-community-call-148087",
+    "mentioned_tokens": [
+      "GRASS"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "36942",
+      "coin_name": "Grass",
+      "tags": [
+        "DAO"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "Zama Developer Program Mainnet Season 3",
+    "timestamp": "2026-7-07",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/zama-zama-zama-developer-program-mainnet-season-3-148172",
+    "mentioned_tokens": [
+      "ZAMA"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "47668",
+      "coin_name": "Zama",
+      "tags": [
+        "Contest"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[WEMIX] PoET Claim Website Discontinuation",
+    "timestamp": "2026-7-08",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/wemix-wemix-poet-claim-website-discontinuation-144470",
+    "mentioned_tokens": [
+      "WEMIX"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "9846",
+      "coin_name": "WEMIX",
+      "tags": [
+        "Announcement"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Pump.fun] Tokens Unlock",
+    "timestamp": "2026-7-12",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/pumpfun-pump-tokens-unlock-133112",
+    "mentioned_tokens": [
+      "PUMP"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "43970",
+      "coin_name": "Pump.fun",
+      "tags": [
+        "Lock & Unlock"
+      ],
+      "important": "true",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Eclipse] Tokens Unlock",
+    "timestamp": "2026-7-16",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/eclipse-es-tokens-unlock-136631",
+    "mentioned_tokens": [
+      "ES"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "41798",
+      "coin_name": "Eclipse",
+      "tags": [
+        "Lock & Unlock"
+      ],
+      "important": "true",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "Injective Summit 2026 in Washington, D.C., USA",
+    "timestamp": "2026-7-16",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/injective-inj-injective-summit-2026-in-washington-dc-usa-142476",
+    "mentioned_tokens": [
+      "INJ"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "9726",
+      "coin_name": "Injective",
+      "tags": [
+        "Conference"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[USDT0] Corn Support Wind-Down",
+    "timestamp": "2026-7-18",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/usdt0-usdt0-corn-support-winddown-147080",
+    "mentioned_tokens": [
+      "USDT0"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "40555",
+      "coin_name": "USDT0",
+      "tags": [
+        "Update"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Arkham] Giveaway",
+    "timestamp": "2026-7-18",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/arkham-arkm-giveaway-148017",
+    "mentioned_tokens": [
+      "ARKM"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "27802",
+      "coin_name": "Arkham",
+      "tags": [
+        "Earning"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Krown Network] Blockchain Futurist Conference Toronto 2026 in Toronto, Canada",
+    "timestamp": "2026-7-21",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/krown-network-krown-blockchain-futurist-conference-toronto-2026-in-toronto-canada-146613",
+    "mentioned_tokens": [
+      "KROWN"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "47939",
+      "coin_name": "Krown Network",
+      "tags": [
+        "Conference"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Genius Token] BROK AI Singularity Release",
+    "timestamp": "2026-7-24",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/genius-token-pock-brok-ai-singularity-release-147714",
+    "mentioned_tokens": [
+      "POCK"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "49848",
+      "coin_name": "Genius Token",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Lava Network] Tokens Unlock",
+    "timestamp": "2026-7-30",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/lava-network-lava-tokens-unlock-136632",
+    "mentioned_tokens": [
+      "LAVA"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "34211",
+      "coin_name": "Lava Network",
+      "tags": [
+        "Lock & Unlock"
+      ],
+      "important": "true",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[SingularityNET] 19th Annual AGI Conference in San Francisco, USA",
+    "timestamp": "2026-7-27",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/singularitynet-agix-19th-annual-agi-conference-in-san-francisco-usa-144336",
+    "mentioned_tokens": [
+      "AGIX"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "1245",
+      "coin_name": "SingularityNET",
+      "tags": [
+        "Conference"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Liberland LLD] Liberland Chess Tournament",
+    "timestamp": "2026-7-24",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/liberland-lld-lld-liberland-chess-tournament-146158",
+    "mentioned_tokens": [
+      "LLD"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "30503",
+      "coin_name": "Liberland LLD",
+      "tags": [
+        "Contest"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Hedera] Consensus Node v.0.75",
+    "timestamp": "2026-7",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/hedera-hbar-consensus-node-v075-141136",
+    "mentioned_tokens": [
+      "HBAR"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "3067",
+      "coin_name": "Hedera",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Qubic] IEEE in Osaka, Japan",
+    "timestamp": "2026-7",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/qubic-qubic-ieee-in-osaka-japan-141483",
+    "mentioned_tokens": [
+      "QUBIC"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "29825",
+      "coin_name": "Qubic",
+      "tags": [
+        "Conference"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Aerodrome Finance] Mainnet Launch",
+    "timestamp": "2026-7",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/aerodrome-finance-aero-mainnet-launch-144054",
+    "mentioned_tokens": [
+      "AERO"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "28617",
+      "coin_name": "Aerodrome Finance",
+      "tags": [
+        "Release"
+      ],
+      "important": "true",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Crypto Market] DTCC to Begin Limited Production Trades Through DTC Tokenization Service",
+    "timestamp": "2026-7",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/crypto-market-dtcc-to-begin-limited-production-trades-through-dtc-tokenization-service-146479",
+    "mentioned_tokens": [],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "0",
+      "coin_name": "Crypto Market",
+      "tags": [
+        "Testing"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Crypto Market] South Korea’s FSC to Release Tokenized Securities Rules",
+    "timestamp": "2026-7",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/crypto-market-south-koreas-fsc-to-release-tokenized-securities-rules-147356",
+    "mentioned_tokens": [],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "0",
+      "coin_name": "Crypto Market",
+      "tags": [
+        "Regulation"
+      ],
+      "important": "true",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[FTX] Next Distribution",
+    "timestamp": "2026-7-31",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/ftx-ftt-next-distribution-147928",
+    "mentioned_tokens": [
+      "FTT"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "2957",
+      "coin_name": "FTX",
+      "tags": [
+        "Earning"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Pyth Network] Pyth Core Infrastructure Upgrade",
+    "timestamp": "2026-7-31",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/pyth-network-pyth-pyth-core-infrastructure-upgrade-147961",
+    "mentioned_tokens": [
+      "PYTH"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "28796",
+      "coin_name": "Pyth Network",
+      "tags": [
+        "Update"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Parallel USDp] Token Swap",
+    "timestamp": "2026-8-01",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/parallel-usdp-usdp-token-swap-143785",
+    "mentioned_tokens": [
+      "USDP"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "46427",
+      "coin_name": "Parallel USDp",
+      "tags": [
+        "Swap"
+      ],
+      "important": "true",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Succinct] Tokens Unlock",
+    "timestamp": "2026-8-05",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/succinct-prove-tokens-unlock-134334",
+    "mentioned_tokens": [
+      "PROVE"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "44705",
+      "coin_name": "Succinct",
+      "tags": [
+        "Lock & Unlock"
+      ],
+      "important": "true",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Odos] Zero Frontend Fees Campaign",
+    "timestamp": "2026-8-06",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/odos-odos-zero-frontend-fees-campaign-146640",
+    "mentioned_tokens": [
+      "ODOS"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "39763",
+      "coin_name": "Odos",
+      "tags": [
+        "Marketing"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Liberland LLD] Liberpulco in Apatin, Serbia",
+    "timestamp": "2026-8-14",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/liberland-lld-lld-liberpulco-in-apatin-serbia-146448",
+    "mentioned_tokens": [
+      "LLD"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "30503",
+      "coin_name": "Liberland LLD",
+      "tags": [
+        "Conference"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[CYBER] CyberWallet and Passkey Wallet Sunset",
+    "timestamp": "2026-8-15",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/cyber-cyber-cyberwallet-and-passkey-wallet-sunset-140956",
+    "mentioned_tokens": [
+      "CYBER"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "28146",
+      "coin_name": "CYBER",
+      "tags": [
+        "Update"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Pendle] SrUSDat and JrUSDat Release",
+    "timestamp": "2026-8",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/pendle-pendle-srusdat-and-jrusdat-release-146449",
+    "mentioned_tokens": [
+      "PENDLE"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "11908",
+      "coin_name": "Pendle",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Aergo] Party Knights Cohort 2",
+    "timestamp": "2026-9-01",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/aergo-aergo-party-knights-cohort-2-148061",
+    "mentioned_tokens": [
+      "AERGO"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "2427",
+      "coin_name": "Aergo",
+      "tags": [
+        "Marketing"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[STBL] Tokens Unlock",
+    "timestamp": "2026-9-26",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/stbl-stbl-tokens-unlock-136633",
+    "mentioned_tokens": [
+      "STBL"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "45948",
+      "coin_name": "STBL",
+      "tags": [
+        "Lock & Unlock"
+      ],
+      "important": "true",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Apro] Bring-Your-Own-API Launch",
+    "timestamp": "2026-Q3",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/apro-at-bringyourownapi-launch-139899",
+    "mentioned_tokens": [
+      "AT"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "46978",
+      "coin_name": "Apro",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "false"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Undeads Games] Monetization Systems Expansion",
+    "timestamp": "2026-Q3",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/undeads-games-uds-monetization-systems-expansion-140196",
+    "mentioned_tokens": [
+      "UDS"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "33169",
+      "coin_name": "Undeads Games",
+      "tags": [
+        "Update"
+      ],
+      "important": "false",
+      "source_reliable": "false"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Undeads Games] New Playable Characters",
+    "timestamp": "2026-Q3",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/undeads-games-uds-new-playable-characters-140197",
+    "mentioned_tokens": [
+      "UDS"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "33169",
+      "coin_name": "Undeads Games",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "false"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Fractal Bitcoin] Halving",
+    "timestamp": "2026-9",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/fractal-bitcoin-fb-halving-141105",
+    "mentioned_tokens": [
+      "FB"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "36902",
+      "coin_name": "Fractal Bitcoin",
+      "tags": [
+        "Earning"
+      ],
+      "important": "false",
+      "source_reliable": "false"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[The Graph] Liquid Staking Mainnet Rollout",
+    "timestamp": "2026-Q3",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/the-graph-grt-liquid-staking-mainnet-rollout-141310",
+    "mentioned_tokens": [
+      "GRT"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "10251",
+      "coin_name": "The Graph",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "false"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[PointPay] Parental Control Accounts",
+    "timestamp": "2026-Q3",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/pointpay-pxp-parental-control-accounts-141347",
+    "mentioned_tokens": [
+      "PXP"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "33945",
+      "coin_name": "PointPay",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "false"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Spell] MIM V2 Launch",
+    "timestamp": "2026-Q3",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/spell-spell-mim-v2-launch-141682",
+    "mentioned_tokens": [
+      "SPELL"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "12701",
+      "coin_name": "Spell",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "EstateX University Release",
+    "timestamp": "2026-Q3",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/estatex-esx-estatex-university-release-145486",
+    "mentioned_tokens": [
+      "ESX"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "33798",
+      "coin_name": "EstateX",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "NanoVita L2 Release",
+    "timestamp": "2026-Q3",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/nanovita-nana-nanovita-l2-release-146857",
+    "mentioned_tokens": [
+      "NANA"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "49968",
+      "coin_name": "NanoVita",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[COINDEPO] Card Layer Launch",
+    "timestamp": "2026-Q3",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/coindepo-coindepo-card-layer-launch-146937",
+    "mentioned_tokens": [
+      "COINDEPO"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "46462",
+      "coin_name": "COINDEPO",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[ICON] Token Swap",
+    "timestamp": "2026-9-30",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/icon-icx-token-swap-148004",
+    "mentioned_tokens": [
+      "ICX"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "954",
+      "coin_name": "ICON",
+      "tags": [
+        "Swap"
+      ],
+      "important": "true",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Aethir] Axe Compute B300 Cluster Release",
+    "timestamp": "2026-Q3",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/aethir-ath-axe-compute-b300-cluster-release-148040",
+    "mentioned_tokens": [
+      "ATH"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "33038",
+      "coin_name": "Aethir",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Txbit] Token Burn",
+    "timestamp": "2026-10-01",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/txbit-txbit-token-burn-57899",
+    "mentioned_tokens": [
+      "TXBIT"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "18039",
+      "coin_name": "Txbit",
+      "tags": [
+        "Burning"
+      ],
+      "important": "true",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[DoubleZero] Tokens Unlock",
+    "timestamp": "2026-10-02",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/doublezero-2z-tokens-unlock-136203",
+    "mentioned_tokens": [
+      "2Z"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "45140",
+      "coin_name": "DoubleZero",
+      "tags": [
+        "Lock & Unlock"
+      ],
+      "important": "true",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[apxUSD] Airdrop",
+    "timestamp": "2026-10-13",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/apxusd-apxusd-airdrop-147799",
+    "mentioned_tokens": [
+      "APXUSD"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "49052",
+      "coin_name": "apxUSD",
+      "tags": [
+        "Earning"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Limitless] Tokens Unlock",
+    "timestamp": "2026-10-22",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/limitless-lmts-tokens-unlock-141177",
+    "mentioned_tokens": [
+      "LMTS"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "46277",
+      "coin_name": "Limitless",
+      "tags": [
+        "Lock & Unlock"
+      ],
+      "important": "true",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[XRP] Swell 2026 in New York City, USA",
+    "timestamp": "2026-10-27",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/xrp-xrp-swell-2026-in-new-york-city-usa-146301",
+    "mentioned_tokens": [
+      "XRP"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "3205",
+      "coin_name": "XRP",
+      "tags": [
+        "Conference"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Mintlayer] Token Swap",
+    "timestamp": "2026-11-01",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/mintlayer-ml-token-swap-146268",
+    "mentioned_tokens": [
+      "ML"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "26374",
+      "coin_name": "Mintlayer",
+      "tags": [
+        "Swap"
+      ],
+      "important": "true",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[UnifAI Network] Investor Token Unlock",
+    "timestamp": "2026-11-06",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/unifai-network-uai-investor-token-unlock-146469",
+    "mentioned_tokens": [
+      "UAI"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "47162",
+      "coin_name": "UnifAI Network",
+      "tags": [
+        "Lock & Unlock"
+      ],
+      "important": "true",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Monad] Tokens Unlock",
+    "timestamp": "2026-11-24",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/monad-mon-tokens-unlock-138630",
+    "mentioned_tokens": [
+      "MON"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "35780",
+      "coin_name": "Monad",
+      "tags": [
+        "Lock & Unlock"
+      ],
+      "important": "true",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[SKALE] 50% Inflation Reduction",
+    "timestamp": "2026-11",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/skale-skl-50-inflation-reduction-136107",
+    "mentioned_tokens": [
+      "SKL"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "10100",
+      "coin_name": "SKALE",
+      "tags": [
+        "General"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Common] Scaling Roadmap 2026",
+    "timestamp": "2026-Q4",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/common-common-scaling-roadmap-2026-139106",
+    "mentioned_tokens": [
+      "COMMON"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "47035",
+      "coin_name": "Common",
+      "tags": [
+        "Branding"
+      ],
+      "important": "false",
+      "source_reliable": "false"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[COTI] Node v.2.0",
+    "timestamp": "2026-Q4",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/coti-coti-node-v20-139107",
+    "mentioned_tokens": [
+      "COTI"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "2834",
+      "coin_name": "COTI",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "false"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Apro] LLM-Enhanced Oracle Suite Launch",
+    "timestamp": "2026-Q4",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/apro-at-llmenhanced-oracle-suite-launch-139900",
+    "mentioned_tokens": [
+      "AT"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "46978",
+      "coin_name": "Apro",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "false"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Undeads Games] Drone Mechanics Release",
+    "timestamp": "2026-Q4",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/undeads-games-uds-drone-mechanics-release-140199",
+    "mentioned_tokens": [
+      "UDS"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "33169",
+      "coin_name": "Undeads Games",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "false"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Undeads Games] Feature Integration and Testing Ends",
+    "timestamp": "2026-Q4",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/undeads-games-uds-feature-integration-and-testing-ends-140201",
+    "mentioned_tokens": [
+      "UDS"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "33169",
+      "coin_name": "Undeads Games",
+      "tags": [
+        "Testing"
+      ],
+      "important": "false",
+      "source_reliable": "false"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[The Graph] Substreams REO Launch",
+    "timestamp": "2026-Q4",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/the-graph-grt-substreams-reo-launch-141311",
+    "mentioned_tokens": [
+      "GRT"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "10251",
+      "coin_name": "The Graph",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "false"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[PointPay] Full Trading Simulator",
+    "timestamp": "2026-Q4",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/pointpay-pxp-full-trading-simulator-141346",
+    "mentioned_tokens": [
+      "PXP"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "33945",
+      "coin_name": "PointPay",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "false"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Chainlink] DTCC Integration",
+    "timestamp": "2026-Q4",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/chainlink-link-dtcc-integration-147123",
+    "mentioned_tokens": [
+      "LINK"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "52",
+      "coin_name": "Chainlink",
+      "tags": [
+        "Update"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[BigWater] Public IRL7 Explorer Release",
+    "timestamp": "2026-Q4",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/bigwater-bigw-public-irl7-explorer-release-147383",
+    "mentioned_tokens": [
+      "BIGW"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "44653",
+      "coin_name": "BigWater",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[ICON] Network Halt",
+    "timestamp": "2026-12-31",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/icon-icx-network-halt-148005",
+    "mentioned_tokens": [
+      "ICX"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "954",
+      "coin_name": "ICON",
+      "tags": [
+        "General"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Ondo] Tokens Unlock",
+    "timestamp": "2027-1-18",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/ondo-ondo-tokens-unlock-140013",
+    "mentioned_tokens": [
+      "ONDO"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "23489",
+      "coin_name": "Ondo",
+      "tags": [
+        "Lock & Unlock"
+      ],
+      "important": "true",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Optimism] Token Buyback Program",
+    "timestamp": "2026-1-29",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/optimism-op-token-buyback-program-140144",
+    "mentioned_tokens": [
+      "OP"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "22166",
+      "coin_name": "Optimism",
+      "tags": [
+        "DAO"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Jupiter] Kuala Lumpur Meetup, Malaysia",
+    "timestamp": "2027-1-30",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/jupiter-jup-kuala-lumpur-meetup-malaysia-139397",
+    "mentioned_tokens": [
+      "JUP"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "31054",
+      "coin_name": "Jupiter",
+      "tags": [
+        "Meetup"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[XDC Network] Tokens Unlock",
+    "timestamp": "2027-2-05",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/xdc-network-xdc-tokens-unlock-140579",
+    "mentioned_tokens": [
+      "XDC"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "7214",
+      "coin_name": "XDC Network",
+      "tags": [
+        "Lock & Unlock"
+      ],
+      "important": "true",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[CREPE] LP Unlock",
+    "timestamp": "2027-2-21 16:00",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/crepe-crepe-lp-unlock-140961",
+    "mentioned_tokens": [
+      "CREPE"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "42988",
+      "coin_name": "CREPE",
+      "tags": [
+        "Lock & Unlock"
+      ],
+      "important": "true",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[Crypto Market] Samsung SDS to Complete KSD Tokenized Securities Platform by February 2027",
+    "timestamp": "2027-2",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/crypto-market-samsung-sds-to-complete-ksd-tokenized-securities-platform-by-february-2027-146480",
+    "mentioned_tokens": [],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "0",
+      "coin_name": "Crypto Market",
+      "tags": [
+        "Release"
+      ],
+      "important": "false",
+      "source_reliable": "true"
+    }
+  },
+  {
+    "source": "coindar",
+    "content": "[BIDZ Coin] Token Locking",
+    "timestamp": "2024-6-06",
+    "author": "Coindar",
+    "url": "https://coindar.org/en/event/bidz-coin-bidz-token-locking-114689",
+    "mentioned_tokens": [
+      "BIDZ"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "coin_id": "23088",
+      "coin_name": "BIDZ Coin",
+      "tags": [
+        "Lock & Unlock"
+      ],
+      "important": "true",
+      "source_reliable": "true"
+    }
+  }
+]

@@ -1,0 +1,14 @@
+# Python >= 3.10
+# 数据采集
+twscrape>=0.18.1          # Twitter 数据采集（GraphQL 逆向）
+telethon>=1.34            # Telegram 数据采集
+requests>=2.31            # HTTP 请求
+
+# 网络代理
+python-socks[asyncio]>=2.4  # Telegram SOCKS5 代理支持
+
+# LLM 调用
+openai>=1.0               # OpenAI 兼容接口（小米 MiMo、DeepSeek 等）
+
+# 可视化
+matplotlib>=3.5           # 图表生成

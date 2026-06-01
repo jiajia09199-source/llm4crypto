@@ -1,0 +1,465 @@
+[
+  {
+    "source": "coindesk",
+    "content": "XRP Ledger's new proposal blocks the flash loan attacks costing DeFi hundreds of millions",
+    "timestamp": "2026-05-31T02:30:00Z",
+    "author": "CoinDesk",
+    "url": "https://www.coindesk.com/tech/2026/05/29/xrp-ledger-s-new-proposal-blocks-the-flash-loan-attacks-costing-defi-hundreds-of-millions",
+    "mentioned_tokens": [
+      "XRP",
+      "OP"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "source_type": "rss",
+      "title": "XRP Ledger's new proposal blocks the flash loan attacks costing DeFi hundreds of millions",
+      "summary": ""
+    }
+  },
+  {
+    "source": "coindesk",
+    "content": "SEC sues Texas man over $12.3 million alleged crypto scheme built on fake AI trading bots",
+    "timestamp": "2026-05-30T17:27:34Z",
+    "author": "CoinDesk",
+    "url": "https://www.coindesk.com/business/2026/05/30/sec-sues-texas-man-over-usd12-3-million-alleged-crypto-scheme-built-on-fake-ai-trading-bots",
+    "mentioned_tokens": [],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "source_type": "rss",
+      "title": "SEC sues Texas man over $12.3 million alleged crypto scheme built on fake AI trading bots",
+      "summary": ""
+    }
+  },
+  {
+    "source": "coindesk",
+    "content": "U.S. says it seized about $1 billion in Iranian crypto as pressure campaign expands",
+    "timestamp": "2026-05-30T15:50:37Z",
+    "author": "CoinDesk",
+    "url": "https://www.coindesk.com/business/2026/05/30/u-s-says-it-seized-about-usd1-billion-in-iranian-crypto-as-pressure-campaign-expands",
+    "mentioned_tokens": [],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "source_type": "rss",
+      "title": "U.S. says it seized about $1 billion in Iranian crypto as pressure campaign expands",
+      "summary": ""
+    }
+  },
+  {
+    "source": "coindesk",
+    "content": "Wall Street’s trillion-dollar dilemma: Why AI-powered hackers are keeping big banks off the blockchain",
+    "timestamp": "2026-05-30T15:00:00Z",
+    "author": "CoinDesk",
+    "url": "https://www.coindesk.com/business/2026/05/28/defi-vulnerabilities-are-tradfi-biggest-blocker-as-protocols-hit-by-near-daily-exploits-certik",
+    "mentioned_tokens": [],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "source_type": "rss",
+      "title": "Wall Street’s trillion-dollar dilemma: Why AI-powered hackers are keeping big banks off the blockchain",
+      "summary": ""
+    }
+  },
+  {
+    "source": "coindesk",
+    "content": "When the market is bad, we build: Inside Binance’s bold 2030 master plan",
+    "timestamp": "2026-05-30T13:00:00Z",
+    "author": "CoinDesk",
+    "url": "https://www.coindesk.com/business/2026/05/26/when-the-market-is-bad-we-build-inside-binance-s-bold-2030-master-plan",
+    "mentioned_tokens": [
+      "BNB"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "source_type": "rss",
+      "title": "When the market is bad, we build: Inside Binance’s bold 2030 master plan",
+      "summary": ""
+    }
+  },
+  {
+    "source": "coindesk",
+    "content": "Hyperliquid could become a ‘financial services juggernaut’ as DeFi expands, says Grayscale",
+    "timestamp": "2026-05-30T13:00:00Z",
+    "author": "CoinDesk",
+    "url": "https://www.coindesk.com/business/2026/05/30/hyperliquid-could-become-a-financial-services-juggernaut-as-defi-expands-says-grayscale",
+    "mentioned_tokens": [],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "source_type": "rss",
+      "title": "Hyperliquid could become a ‘financial services juggernaut’ as DeFi expands, says Grayscale",
+      "summary": ""
+    }
+  },
+  {
+    "source": "coindesk",
+    "content": "XRP ETFs add $35 million as bitcoin and ether funds lost $2 billion in late May",
+    "timestamp": "2026-05-30T11:35:56Z",
+    "author": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/05/30/ripple-said-to-lead-usd1-billion-xrp-treasury-raise-report",
+    "mentioned_tokens": [
+      "BTC",
+      "ETH",
+      "XRP"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "source_type": "rss",
+      "title": "XRP ETFs add $35 million as bitcoin and ether funds lost $2 billion in late May",
+      "summary": ""
+    }
+  },
+  {
+    "source": "coindesk",
+    "content": "Bitcoin, ether, XRP, dogecoin lag a nine-week stocks rally as ETF demand cools",
+    "timestamp": "2026-05-30T05:41:30Z",
+    "author": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/05/30/bitcoin-ether-xrp-dogecoin-lag-a-nine-week-stocks-rally-as-etf-demand-cools",
+    "mentioned_tokens": [
+      "BTC",
+      "ETH",
+      "XRP",
+      "DOGE"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "source_type": "rss",
+      "title": "Bitcoin, ether, XRP, dogecoin lag a nine-week stocks rally as ETF demand cools",
+      "summary": ""
+    }
+  },
+  {
+    "source": "coindesk",
+    "content": "Bitcoin’s biggest quantum risk may not be wallet keys. An early investor fears something bigger",
+    "timestamp": "2026-05-30T05:27:39Z",
+    "author": "CoinDesk",
+    "url": "https://www.coindesk.com/tech/2026/05/30/bitcoin-s-biggest-quantum-risk-may-not-be-wallet-keys-an-early-investor-fears-something-bigger",
+    "mentioned_tokens": [
+      "BTC",
+      "ETH"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "source_type": "rss",
+      "title": "Bitcoin’s biggest quantum risk may not be wallet keys. An early investor fears something bigger",
+      "summary": ""
+    }
+  },
+  {
+    "source": "coindesk",
+    "content": "‘The banks will not accept it’: Dimon escalates battle over stablecoin rewards in CLARITY Act debate",
+    "timestamp": "2026-05-29T20:03:52Z",
+    "author": "CoinDesk",
+    "url": "https://www.coindesk.com/policy/2026/05/29/the-banks-will-not-accept-it-dimon-escalates-battle-over-stablecoin-rewards-in-clarity-act-debate",
+    "mentioned_tokens": [],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "source_type": "rss",
+      "title": "‘The banks will not accept it’: Dimon escalates battle over stablecoin rewards in CLARITY Act debate",
+      "summary": ""
+    }
+  },
+  {
+    "source": "coindesk",
+    "content": "U.S. regulator says 24/7 trading is great for crypto, may not be fit for other sectors",
+    "timestamp": "2026-05-29T16:29:42Z",
+    "author": "CoinDesk",
+    "url": "https://www.coindesk.com/policy/2026/05/29/u-s-regulator-says-24-7-trading-is-great-for-crypto-may-not-be-fit-for-other-sectors",
+    "mentioned_tokens": [],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "source_type": "rss",
+      "title": "U.S. regulator says 24/7 trading is great for crypto, may not be fit for other sectors",
+      "summary": ""
+    }
+  },
+  {
+    "source": "coindesk",
+    "content": "Mass deployment of AI agents is a disaster waiting to happen, says CertiK CEO",
+    "timestamp": "2026-05-29T15:31:07Z",
+    "author": "CoinDesk",
+    "url": "https://www.coindesk.com/tech/2026/05/29/mass-deployment-of-ai-agents-is-a-disaster-waiting-to-happen-says-certik-ceo",
+    "mentioned_tokens": [],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "source_type": "rss",
+      "title": "Mass deployment of AI agents is a disaster waiting to happen, says CertiK CEO",
+      "summary": ""
+    }
+  },
+  {
+    "source": "coindesk",
+    "content": "Clarity Act Risks Regulation Without Oversight, Brookings Fellow Says",
+    "timestamp": "2026-05-29T15:14:55Z",
+    "author": "CoinDesk",
+    "url": "https://www.coindesk.com/policy/2026/05/29/clarity-act-risks-regulation-without-oversight-brookings-fellow-says",
+    "mentioned_tokens": [],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "source_type": "rss",
+      "title": "Clarity Act Risks Regulation Without Oversight, Brookings Fellow Says",
+      "summary": ""
+    }
+  },
+  {
+    "source": "coindesk",
+    "content": "Live markets: Bitcoin shrugs off early decline, but two-month winning streak is in jeopardy",
+    "timestamp": "2026-05-29T14:50:50Z",
+    "author": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/05/29/live-markets-bitcoin-slides-further-putting-two-month-winning-streak-in-jeopardy",
+    "mentioned_tokens": [
+      "BTC",
+      "OP"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "source_type": "rss",
+      "title": "Live markets: Bitcoin shrugs off early decline, but two-month winning streak is in jeopardy",
+      "summary": ""
+    }
+  },
+  {
+    "source": "coindesk",
+    "content": "What American crypto asset perpetuals mean for the future of crypto",
+    "timestamp": "2026-05-29T14:00:00Z",
+    "author": "CoinDesk",
+    "url": "https://www.coindesk.com/opinion/2026/05/29/what-american-crypto-asset-perpetuals-mean-for-the-future-of-crypto",
+    "mentioned_tokens": [],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "source_type": "rss",
+      "title": "What American crypto asset perpetuals mean for the future of crypto",
+      "summary": ""
+    }
+  },
+  {
+    "source": "coindesk",
+    "content": "U.S. CFTC opens crypto 'perp' door with first approvals at Kalshi, Coinbase",
+    "timestamp": "2026-05-29T14:00:00Z",
+    "author": "CoinDesk",
+    "url": "https://www.coindesk.com/policy/2026/05/28/u-s-cftc-opens-crypto-perp-door-with-approval-of-first-regulated-firm",
+    "mentioned_tokens": [
+      "OP"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "source_type": "rss",
+      "title": "U.S. CFTC opens crypto 'perp' door with first approvals at Kalshi, Coinbase",
+      "summary": ""
+    }
+  },
+  {
+    "source": "coindesk",
+    "content": "CoinDesk 20 performance update: Bittensor (TAO) drops 4%, leading index lower",
+    "timestamp": "2026-05-29T13:15:09Z",
+    "author": "CoinDesk",
+    "url": "https://www.coindesk.com/coindesk-indices/2026/05/29/coindesk-20-performance-update-bittensor-tao-drops-4-leading-index-lower",
+    "mentioned_tokens": [
+      "OP"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "source_type": "rss",
+      "title": "CoinDesk 20 performance update: Bittensor (TAO) drops 4%, leading index lower",
+      "summary": ""
+    }
+  },
+  {
+    "source": "coindesk",
+    "content": "Paxos wins SEC approval to clear U.S. stocks on blockchain",
+    "timestamp": "2026-05-29T12:28:24Z",
+    "author": "CoinDesk",
+    "url": "https://www.coindesk.com/policy/2026/05/29/paxos-is-first-blockchain-firm-to-provide-settlement-and-clearing-services-following-sec-approval",
+    "mentioned_tokens": [],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "source_type": "rss",
+      "title": "Paxos wins SEC approval to clear U.S. stocks on blockchain",
+      "summary": ""
+    }
+  },
+  {
+    "source": "coindesk",
+    "content": "Hyperliquid bigger than NASDAQ, says ICE CEO Jeffrey Sprecher",
+    "timestamp": "2026-05-29T12:05:09Z",
+    "author": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/05/29/ice-ceo-calls-hyperliquid-bigger-than-nasdaq-says-he-s-met-its-founders",
+    "mentioned_tokens": [],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "source_type": "rss",
+      "title": "Hyperliquid bigger than NASDAQ, says ICE CEO Jeffrey Sprecher",
+      "summary": ""
+    }
+  },
+  {
+    "source": "coindesk",
+    "content": "Bitcoin underperforms risk assets as record 9th day of ETF outflows signal waning demand",
+    "timestamp": "2026-05-29T11:15:00Z",
+    "author": "CoinDesk",
+    "url": "https://www.coindesk.com/daybook-us/2026/05/29/bitcoin-underperforms-risk-assets-as-record-9th-day-of-etf-outflows-signal-waning-demand",
+    "mentioned_tokens": [
+      "BTC"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "source_type": "rss",
+      "title": "Bitcoin underperforms risk assets as record 9th day of ETF outflows signal waning demand",
+      "summary": ""
+    }
+  },
+  {
+    "source": "coindesk",
+    "content": "Bitcoin ETF outflows reach record 9-day streak as investors pull $2.8 billion",
+    "timestamp": "2026-05-29T10:38:47Z",
+    "author": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/05/29/bitcoin-etf-outflows-reach-record-nine-day-streak-as-investors-pull-usd2-8-billion",
+    "mentioned_tokens": [
+      "BTC"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "source_type": "rss",
+      "title": "Bitcoin ETF outflows reach record 9-day streak as investors pull $2.8 billion",
+      "summary": ""
+    }
+  },
+  {
+    "source": "coindesk",
+    "content": "Bitcoin slides to April lows as crypto diverges from record-chasing U.S. equities",
+    "timestamp": "2026-05-29T10:29:14Z",
+    "author": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/05/29/bitcoin-slides-to-april-lows-as-crypto-diverges-from-record-chasing-u-s-equities",
+    "mentioned_tokens": [
+      "BTC"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "source_type": "rss",
+      "title": "Bitcoin slides to April lows as crypto diverges from record-chasing U.S. equities",
+      "summary": ""
+    }
+  },
+  {
+    "source": "coindesk",
+    "content": "Kalshi follows CFTC in suing Minnesota over law criminalizing prediction markets",
+    "timestamp": "2026-05-29T09:59:39Z",
+    "author": "CoinDesk",
+    "url": "https://www.coindesk.com/policy/2026/05/29/kalshi-follows-cftc-in-suing-minnesota-over-law-criminalizing-prediction-markets",
+    "mentioned_tokens": [
+      "SUI"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "source_type": "rss",
+      "title": "Kalshi follows CFTC in suing Minnesota over law criminalizing prediction markets",
+      "summary": ""
+    }
+  },
+  {
+    "source": "coindesk",
+    "content": "Strategy's STRC slips below $99 as Strive captures investor attention",
+    "timestamp": "2026-05-29T09:10:49Z",
+    "author": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/05/29/strategy-s-strc-slips-below-usd99-as-strive-captures-investor-attention",
+    "mentioned_tokens": [
+      "APT"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "source_type": "rss",
+      "title": "Strategy's STRC slips below $99 as Strive captures investor attention",
+      "summary": ""
+    }
+  },
+  {
+    "source": "coindesk",
+    "content": "Solana, Sui and Aptos wallet data targeted in TrapDoor package attack",
+    "timestamp": "2026-05-29T08:19:42Z",
+    "author": "CoinDesk",
+    "url": "https://www.coindesk.com/tech/2026/05/29/solana-sui-and-aptos-wallet-data-targeted-in-trapdoor-package-attack",
+    "mentioned_tokens": [
+      "SOL",
+      "APT",
+      "SUI"
+    ],
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "followers": 0,
+    "extra": {
+      "source_type": "rss",
+      "title": "Solana, Sui and Aptos wallet data targeted in TrapDoor package attack",
+      "summary": ""
+    }
+  }
+]
