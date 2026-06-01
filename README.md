@@ -115,6 +115,41 @@ llm4crypto/
 | token_sentiment_vs_price.png | 等权 vs 加权情绪得分 vs 24h 价格变化 |
 | category_analysis.png | 按代币类别分组：情绪与价格对比 |
 
+
+# data/ 目录说明
+
+本目录存放所有采集、清洗和分析过程中生成的数据文件。
+
+## 原始采集数据
+
+| 文件名 | 说明 | 数据来源 |
+|--------|------|----------|
+| `coindar.json` | Coindar 事件日历采集的原始事件数据 | Coindar API |
+| `coindesk.json` | CoinDesk RSS 新闻采集的原始数据 | CoinDesk RSS |
+| `cointelegraph.json` | Cointelegraph RSS 新闻采集的原始数据 | Cointelegraph RSS |
+| `telegram.json` | Telegram 公开频道消息采集的原始数据 | Telegram 客户端 API |
+| `twitter.json` | Twitter 推文采集的原始数据 | twscrape (Twitter GraphQL API) |
+
+## 清洗后数据
+
+| 文件名 | 说明                              |
+|--------|---------------------------------|
+| `cleaned_all.json` | 经过8步清洗流程处理后的统一格式数据，供 LLM 情绪分析使用 |
+
+## 情绪分析结果
+
+| 文件名 | 说明 |
+|--------|------|
+| `sentiment_results.json` | LLM 情绪分析的结构化结果，包含每条消息的情绪倾向、得分、类型、可信度等字段 |
+
+## 价格对比数据
+
+| 文件名 | 说明 |
+|--------|------|
+| `price_comparison.json` | 各代币的情绪得分（等权/加权）与 24h 价格涨跌幅的对比数据 |
+| `price_history.json` | 主要代币的 7 天历史价格数据 |
+| `comparison_report.txt` | 情绪与价格对比的文本报告，包含整体分析、类别分析及结论 |
+
 ## 快速开始
 
 ### 环境要求
